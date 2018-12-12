@@ -1,0 +1,13 @@
+<!-- This is the client side javascript -->
+
+<script>
+// start by getting the data
+window.onload = function() {
+  google.script.run.withSuccessHandler(params).getParams();
+};
+var params = function (data) {
+    google.script.run
+    .withSuccessHandler(drawChart)
+    .getBladData(data.klass);
+};
+</script>

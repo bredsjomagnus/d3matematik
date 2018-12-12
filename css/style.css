@@ -1,0 +1,75 @@
+<!-- This is the stylesheet -->
+<style>
+.chart {
+
+}
+.axis path,
+.axis line {
+	fill: none;
+	stroke: black;
+	shape-rendering: crispEdges;
+}
+.axis text {
+	font-family: sans-serif;
+	font-size: 11px;
+}
+.navbar {
+    height: 75px;
+}
+.navbarinfo {
+    display: inline-block;
+    width: 300px;
+    margin-left: 50px;
+    margin-top: 18px;
+}
+.right{
+    /* float: right; */
+	margin-left: 850px;
+}
+#logo {
+    width: 100px;
+}
+.node{
+	stroke: #2b2b2b;
+	stroke-width: 1px;
+	opacity: 1;
+}
+.newanlandnode {
+	stroke: #692424;
+	stroke-width: 3px;
+	opacity: 1;
+}
+.tooltip {
+	font-weight: bold;
+	opacity: 0.9;
+	background-color: #e3e3e3;
+	border: 1px solid rgb(61, 213, 94);
+	padding: 2px 5px 2px 5px;
+}
+.headtitle {
+	background-color: #1b3a59;
+	padding-bottom: 7px;
+	margin-bottom: 15px;
+	margin-top: -20px;
+	border-bottom: 1px solid gray;
+    border-top: 1px solid gray;
+    text-align: center;
+    color: white;
+    border-bottom: 5px solid #307cc9;
+}
+.subheader {
+	background-color: #fff;
+	/* padding-bottom: 7px; */
+	margin-bottom: 15px;
+	/* border-bottom: 1px solid gray; */
+	/* border-top: 1px solid gray; */
+	text-align: center;
+	color: #414141;
+	border-top: 1px solid #a4bacf;
+}
+.chart-info-wrapper {
+	width: 75%;
+	display: block;
+	text-align: center;
+}
+</style>

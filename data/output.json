@@ -1,0 +1,552 @@
+[
+	{
+	    "gender":  "Flicka",
+	    "year":  [
+	        ["18 / 19"]
+	    ],
+	    "radie":  4.0,
+	    "termin": [
+	        ["HT"]
+	    ],
+	    "cx_s":  11.0,
+	    "stanine_h":  2.0,
+	    "stanine_f":  1.0,
+	    "cx_h":  10.0,
+	    "cx_f":  1.0,
+	    "stanine_s":  2.0,
+	    "klass":  [
+	        ["7 C"]
+	    ],
+	    "stavning":  11.0,
+	    "läsh": 10.0,
+	    "nyanländ": "ja",
+	    "läsf": 1.0
+	}, {
+	    "gender": "Pojke",
+	    "year": [
+	        ["18 / 19"]
+	    ],
+	    "radie": 5.0,
+	    "termin": [
+	        ["HT"]
+	    ],
+	    "cx_s":"",
+	    "stanine_h":"",
+	    "stanine_f":"",
+	    "cx_h":"",
+	    "cx_f":"",
+	    "stanine_s":"",
+	    "klass": [
+	        ["7 C"]
+	    ],
+	    "stavning":"",
+	    "läsh":"",
+	    "nyanländ": "nej",
+	    "läsf": "",
+	}, {
+	    "gender": "Flicka",
+	    "year": [
+	        ["18 / 19"]
+	    ],
+	    "radie": 5.0,
+	    "termin": [
+	        ["HT"]
+	    ],
+	    "cx_s": 21.0,
+	    "stanine_h": 5.0,
+	    "stanine_f": 6.0,
+	    "cx_h": 18.0,
+	    "cx_f": 14.0,
+	    "stanine_s": 4.0,
+	    "klass": [
+	        ["7 C"]
+	    ],
+	    "stavning": 21.0,
+	    "läsh": 18.0,
+	    "nyanländ": "nej",
+	    "läsf": 14.0
+	}, {
+	    "gender": "Flicka",
+	    "year": [
+	        ["18 / 19"]
+	    ],
+	    "radie": 5.0,
+	    "termin": [
+	        ["HT"]
+	    ],
+	    "cx_s": 29.0,
+	    "stanine_h": 7.0,
+	    "stanine_f": 6.0,
+	    "cx_h": 27.0,
+	    "cx_f": 14.0,
+	    "stanine_s": 7.0,
+	    "klass": [
+	        ["7 C"]
+	    ],
+	    "stavning": 29.0,
+	    "läsh": 27.0,
+	    "nyanländ": "nej",
+	    "läsf": 14.0
+	}, {
+	    "gender": "Flicka",
+	    "year": [
+	        ["18 / 19"]
+	    ],
+	    "radie": 5.0,
+	    "termin": [
+	        ["HT"]
+	    ],
+	    "cx_s": 23.0,
+	    "stanine_h": 6.0,
+	    "stanine_f": 5.0,
+	    "cx_h": 23.0,
+	    "cx_f": 13.0,
+	    "stanine_s": 5.0,
+	    "klass": [
+	        ["7 C"]
+	    ],
+	    "stavning": 23.0,
+	    "läsh": 23.0,
+	    "nyanländ": "nej",
+	    "läsf": 13.0
+	}, {
+	    "gender": "Pojke",
+	    "year": [
+	        ["18 / 19"]
+	    ],
+	    "radie": 5.0,
+	    "termin": [
+	        ["HT"]
+	    ],
+	    "cx_s":"",
+	    "stanine_h":"",
+	    "stanine_f":"",
+	    "cx_h":"",
+	    "cx_f":"",
+	    "stanine_s":"",
+	    "klass": [
+	        ["7 C"]
+	    ],
+	    "stavning":"",
+	    "läsh":"",
+	    "nyanländ": "nej",
+	    "läsf": "",
+	}, {
+	    "gender": "Pojke",
+	    "year": [
+	        ["18 / 19"]
+	    ],
+	    "radie": 5.0,
+	    "termin": [
+	        ["HT"]
+	    ],
+	    "cx_s": 17.0,
+	    "stanine_h": 5.0,
+	    "stanine_f": 4.0,
+	    "cx_h": 18.0,
+	    "cx_f": 11.0,
+	    "stanine_s": 3.0,
+	    "klass": [
+	        ["7 C"]
+	    ],
+	    "stavning": 17.0,
+	    "läsh": 18.0,
+	    "nyanländ": "nej",
+	    "läsf": 11.0
+	}, {
+	    "gender": "Pojke",
+	    "year": [
+	        ["18 / 19"]
+	    ],
+	    "radie": 5.0,
+	    "termin": [
+	        ["HT"]
+	    ],
+	    "cx_s":"",
+	    "stanine_h":"",
+	    "stanine_f": 5.0,
+	    "cx_h":"",
+	    "cx_f": 12.0,
+	    "stanine_s":"",
+	    "klass": [
+	        ["7 C"]
+	    ],
+	    "stavning":"",
+	    "läsh":"",
+	    "nyanländ": "nej",
+	    "läsf": 12.0
+	}, {
+    "gender": "Pojke",
+    "year": [
+        ["18 / 19"]
+    ],
+    "radie": 4.0,
+    "termin": [
+        ["HT"]
+    ],
+    "cx_s": 8.0,
+    "stanine_h": 2.0,
+    "stanine_f": 2.0,
+    "cx_h": 11.0,
+    "cx_f": 5.0,
+    "stanine_s": 1.0,
+    "klass": [
+        ["7 C"]
+    ],
+    "stavning": 8.0,
+    "läsh": 11.0,
+    "nyanländ": "ja",
+    "läsf": 5.0
+}, {
+    "gender": "Pojke",
+    "year": [
+        ["18 / 19"]
+    ],
+    "radie": 4.0,
+    "termin": [
+        ["HT"]
+    ],
+    "cx_s": 2.0,
+    "stanine_h": 2.0,
+    "stanine_f": 1.0,
+    "cx_h": 8.0,
+    "cx_f": 3.0,
+    "stanine_s": 1.0,
+    "klass": [
+        ["7 C"]
+    ],
+    "stavning": 2.0,
+    "läsh": 8.0,
+    "nyanländ": "ja",
+    "läsf": 3.0
+}, {
+    "gender": "Flicka",
+    "year": [
+        ["18 / 19"]
+    ],
+    "radie": 5.0,
+    "termin": [
+        ["HT"]
+    ],
+    "cx_s": 29.0,
+    "stanine_h": 6.0,
+    "stanine_f": 7.0,
+    "cx_h": 24.0,
+    "cx_f": 16.0,
+    "stanine_s": 7.0,
+    "klass": [
+        ["7 C"]
+    ],
+    "stavning": 29.0,
+    "läsh": 24.0,
+    "nyanländ": "nej",
+    "läsf": 16.0
+}, {
+    "gender": "Flicka",
+    "year": [
+        ["18 / 19"]
+    ],
+    "radie": 5.0,
+    "termin": [
+        ["HT"]
+    ],
+    "cx_s": 33.0,
+    "stanine_h": 6.0,
+    "stanine_f": 4.0,
+    "cx_h": 21.0,
+    "cx_f": 10.0,
+    "stanine_s": 8.0,
+    "klass": [
+        ["7 C"]
+    ],
+    "stavning": 33.0,
+    "läsh": 21.0,
+    "nyanländ": "nej",
+    "läsf": 10.0
+}, {
+    "gender": "Pojke",
+    "year": [
+        ["18 / 19"]
+    ],
+    "radie": 4.0,
+    "termin": [
+        ["HT"]
+    ],
+    "cx_s": 27.0,
+    "stanine_h": 2.0,
+    "stanine_f": 1.0,
+    "cx_h": 9.0,
+    "cx_f": 4.0,
+    "stanine_s": 6.0,
+    "klass": [
+        ["7 C"]
+    ],
+    "stavning": 27.0,
+    "läsh": 9.0,
+    "nyanländ": "ja",
+    "läsf": 4.0
+}, {
+    "gender": "Pojke",
+    "year": [
+        ["18 / 19"]
+    ],
+    "radie": 5.0,
+    "termin": [
+        ["HT"]
+    ],
+    "cx_s": 22.0,
+    "stanine_h": 3.0,
+    "stanine_f": 1.0,
+    "cx_h": 13.0,
+    "cx_f": 4.0,
+    "stanine_s": 5.0,
+    "klass": [
+        ["7 C"]
+    ],
+    "stavning": 22.0,
+    "läsh": 13.0,
+    "nyanländ": "nej",
+    "läsf": 4.0
+}, {
+    "gender": "Flicka",
+    "year": [
+        ["18 / 19"]
+    ],
+    "radie": 5.0,
+    "termin": [
+        ["HT"]
+    ],
+    "cx_s": 34.0,
+    "stanine_h": 7.0,
+    "stanine_f": 5.0,
+    "cx_h": 25.0,
+    "cx_f": 13.0,
+    "stanine_s": 9.0,
+    "klass": [
+        ["7 C"]
+    ],
+    "stavning": 34.0,
+    "läsh": 25.0,
+    "nyanländ": "nej",
+    "läsf": 13.0
+}, {
+    "gender": "Pojke",
+    "year": [
+        ["18 / 19"]
+    ],
+    "radie": 4.0,
+    "termin": [
+        ["HT"]
+    ],
+    "cx_s": 8.0,
+    "stanine_h": 3.0,
+    "stanine_f": 2.0,
+    "cx_h": 12.0,
+    "cx_f": 5.0,
+    "stanine_s": 1.0,
+    "klass": [
+        ["7 C"]
+    ],
+    "stavning": 8.0,
+    "läsh": 12.0,
+    "nyanländ": "ja",
+    "läsf": 5.0
+}, {
+    "gender": "Pojke",
+    "year": [
+        ["18 / 19"]
+    ],
+    "radie": 5.0,
+    "termin": [
+        ["HT"]
+    ],
+    "cx_s": 26.0,
+    "stanine_h":"",
+    "stanine_f": 5.0,
+    "cx_h":"",
+    "cx_f": 13.0,
+    "stanine_s": 6.0,
+    "klass": [
+        ["7 C"]
+    ],
+    "stavning": 26.0,
+    "läsh":"",
+    "nyanländ": "nej",
+    "läsf": 13.0
+}, {
+    "gender": "Pojke",
+    "year": [
+        ["18 / 19"]
+    ],
+    "radie": 4.0,
+    "termin": [
+        ["HT"]
+    ],
+    "cx_s": 0.0,
+    "stanine_h": 1.0,
+    "stanine_f": 2.0,
+    "cx_h": 6.0,
+    "cx_f": 5.0,
+    "stanine_s": 1.0,
+    "klass": [
+        ["7 C"]
+    ],
+    "stavning": 0.0,
+    "läsh": 6.0,
+    "nyanländ": "ja",
+    "läsf": 5.0
+}, {
+    "gender": "Flicka",
+    "year": [
+        ["18 / 19"]
+    ],
+    "radie": 5.0,
+    "termin": [
+        ["HT"]
+    ],
+    "cx_s": 9.0,
+    "stanine_h": 3.0,
+    "stanine_f": 2.0,
+    "cx_h": 12.0,
+    "cx_f": 7.0,
+    "stanine_s": 2.0,
+    "klass": [
+        ["7 C"]
+    ],
+    "stavning": 9.0,
+    "läsh": 12.0,
+    "nyanländ": "nej",
+    "läsf": 7.0
+}, {
+    "gender": "Pojke",
+    "year": [
+        ["18 / 19"]
+    ],
+    "radie": 5.0,
+    "termin": [
+        ["HT"]
+    ],
+    "cx_s": 20.0,
+    "stanine_h":"",
+    "stanine_f":"",
+    "cx_h":"",
+    "cx_f":"",
+    "stanine_s": 4.0,
+    "klass": [
+        ["7 C"]
+    ],
+    "stavning": 20.0,
+    "läsh":"",
+    "nyanländ": "nej",
+    "läsf": "",
+}, {
+    "gender": "Flicka",
+    "year": [
+        ["18 / 19"]
+    ],
+    "radie": 5.0,
+    "termin": [
+        ["HT"]
+    ],
+    "cx_s": 29.0,
+    "stanine_h": 3.0,
+    "stanine_f": 4.0,
+    "cx_h": 14.0,
+    "cx_f": 10.0,
+    "stanine_s": 7.0,
+    "klass": [
+        ["7 C"]
+    ],
+    "stavning": 29.0,
+    "läsh": 14.0,
+    "nyanländ": "nej",
+    "läsf": 10.0
+}, {
+    "gender": "Pojke",
+    "year": [
+        ["18 / 19"]
+    ],
+    "radie": 4.0,
+    "termin": [
+        ["HT"]
+    ],
+    "cx_s": 10.0,
+    "stanine_h": 2.0,
+    "stanine_f": 2.0,
+    "cx_h": 9.0,
+    "cx_f": 6.0,
+    "stanine_s": 2.0,
+    "klass": [
+        ["7 C"]
+    ],
+    "stavning": 10.0,
+    "läsh": 9.0,
+    "nyanländ": "ja",
+    "läsf": 6.0
+}, {
+    "gender": "Flicka",
+    "year": [
+        ["18 / 19"]
+    ],
+    "radie": 5.0,
+    "termin": [
+        ["HT"]
+    ],
+    "cx_s": 27.0,
+    "stanine_h": 5.0,
+    "stanine_f": 5.0,
+    "cx_h": 20.0,
+    "cx_f": 13.0,
+    "stanine_s": 6.0,
+    "klass": [
+        ["7 C"]
+    ],
+    "stavning": 27.0,
+    "läsh": 20.0,
+    "nyanländ": "nej",
+    "läsf": 13.0
+}, {
+    "gender": "Flicka",
+    "year": [
+        ["18 / 19"]
+    ],
+    "radie": 5.0,
+    "termin": [
+        ["HT"]
+    ],
+    "cx_s": 31.0,
+    "stanine_h": 6.0,
+    "stanine_f": 8.0,
+    "cx_h": 21.0,
+    "cx_f": 18.0,
+    "stanine_s": 7.0,
+    "klass": [
+        ["7 C"]
+    ],
+    "stavning": 31.0,
+    "läsh": 21.0,
+    "nyanländ": "nej",
+    "läsf": 18.0
+}, {
+    "gender": "Flicka",
+    "year": [
+        ["18 / 19"]
+    ],
+    "radie": 5.0,
+    "termin": [
+        ["HT"]
+    ],
+    "cx_s": 23.0,
+    "stanine_h": 6.0,
+    "stanine_f": 7.0,
+    "cx_h": 21.0,
+    "cx_f": 16.0,
+    "stanine_s": 5.0,
+    "klass": [
+        ["7 C"]
+    ],
+    "stavning": 23.0,
+    "läsh": 21.0,
+    "nyanländ": "nej",
+    "läsf": 16.0
+}]
